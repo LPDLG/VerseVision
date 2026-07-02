@@ -1,0 +1,3 @@
+box_id,class_text,class_en,xmin,ymin,xmax,ymax
+1,花,flower,0.805889,0.392791,1.0,0.909456
+2,花,flower,0.425063,0.543599,0.964011,0.9872850000000001
